@@ -1,4 +1,4 @@
-# BlockMemoryMod
+# ![alt text](https://github.com/Nooded/BlockMemory/raw/master/src/main/resources/assets/blockmemory/icon.jpg "Ls") BlockMemoryMod 
 
 [![Fabric 1.21.6](https://img.shields.io/badge/Fabric-1.21.6-brightgreen.svg)](https://fabricmc.net/)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
