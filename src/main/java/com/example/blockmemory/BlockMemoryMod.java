@@ -53,7 +53,7 @@ public class BlockMemoryMod implements ClientModInitializer {
 	private static int maxSavedY   = 0;                    // tallest captured block
 	private static int renderMaxY  = 0;                    // slice ceiling
 
-	/* hot-bar swap bookkeeping */
+	/* hot-bar swap bookkeepintg */
 	private static int  cachedEmptySlot = -1;
 	private static boolean isPlacing    = false;
 
