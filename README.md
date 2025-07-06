@@ -5,6 +5,9 @@
 
 A client‐side Minecraft mod for Fabric 1.21.6 that “remembers” blocks around you, renders them as blue ghost outlines.
 
+This mod is inspired by Speedbuilder Haxx by detectorcent, but currently other versions of that mod are lost media but their existance is proven in [OpenEye](https://openeye.openmods.info/mod/speedbuilderhaxx).
+No code was copied or taken from Speedbuilder Haxx or other mods.
+
 ---
 
 ## Features
