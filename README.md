@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/Nooded/BlockMemory/raw/master/src/main/resources/assets/blockmemory/icon.png" width="100" alt="BlockMemoryMod Icon" />
+  <img src="https://github.com/Nooded/BlockMemory/raw/master/src/main/resources/assets/blockmemory/icon.jpg" width="100" alt="BlockMemoryMod Icon" />
 </p>
 
 # BlockMemoryMod
