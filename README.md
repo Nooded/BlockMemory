@@ -5,7 +5,9 @@
 <h1 align="center">BlockMemoryMod</h1>
 
 <p align="center">
-  A client-side Minecraft Fabric mod that saves block structures, renders ghost blocks, and enables auto-placement with smart hot-bar swapping.
+  A client-side Minecraft Fabric mod that saves block structures, renders ghost blocks, and enables auto-placement with smart hot-bar swapping.<br>
+  This mod is inspired by Speedbuilder Haxx by detectorcent, but currently other versions of that mod are lost media but their existance is proven in <a href="https://openeye.openmods.info/mod/speedbuilderhaxx">OpenEye</a>.
+No code was copied or taken from Speedbuilder Haxx or other mods.
 </p>
 
 <p align="center">
@@ -20,8 +22,7 @@
 
 <hr>
 
-This mod is inspired by Speedbuilder Haxx by detectorcent, but currently other versions of that mod are lost media but their existance is proven in [OpenEye](https://openeye.openmods.info/mod/speedbuilderhaxx).
-No code was copied or taken from Speedbuilder Haxx or other mods.
+
 
 
 ## Features
