@@ -1,18 +1,28 @@
-<p align="left">
-  <img src="https://github.com/Nooded/BlockMemory/raw/master/src/main/resources/assets/blockmemory/icon.jpg" width="100" alt="BlockMemoryMod Icon" />
+<p align="center">
+  <img src="https://github.com/Nooded/BlockMemory/raw/master/src/main/resources/assets/blockmemory/icon.png" width="128" alt="BlockMemoryMod Icon"/>
 </p>
 
-# BlockMemoryMod
+<h1 align="center">BlockMemoryMod</h1>
 
-[![Fabric 1.21.6](https://img.shields.io/badge/Fabric-1.21.6-brightgreen.svg)](https://fabricmc.net/)  
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+<p align="center">
+  A client-side Minecraft Fabric mod that saves block structures, renders ghost blocks, and enables auto-placement with smart hot-bar swapping.
+</p>
 
-A client‐side Minecraft mod for Fabric 1.21.6 that “remembers” blocks around you, renders them as blue ghost outlines.
+<p align="center">
+  <a href="https://fabricmc.net/">
+    <img alt="Fabric Version" src="https://img.shields.io/badge/Fabric-1.21.6-brightgreen.svg" />
+  </a>
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  </a>
+  <img alt="Mod Type" src="https://img.shields.io/badge/client--side-only-blueviolet" />
+</p>
+
+<hr>
 
 This mod is inspired by Speedbuilder Haxx by detectorcent, but currently other versions of that mod are lost media but their existance is proven in [OpenEye](https://openeye.openmods.info/mod/speedbuilderhaxx).
 No code was copied or taken from Speedbuilder Haxx or other mods.
 
----
 
 ## Features
 
